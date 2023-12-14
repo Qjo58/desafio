@@ -1,0 +1,4 @@
+git config (--global --system --local) - (comando para alterar alguma configuração do Git e suas escalas de alteração)
+git clone - (clona um repositório remoto)*
+git status - (mostra se algo está desatualizado na branch)
+git push - (faz upload no repositório remoto)
