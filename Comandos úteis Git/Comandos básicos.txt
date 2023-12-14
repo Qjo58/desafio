@@ -2,3 +2,6 @@ git config (--global --system --local) - (comando para alterar alguma configura�
 git clone - (clona um repositório remoto)*
 git status - (mostra se algo está desatualizado na branch)
 git push - (faz upload no repositório remoto)
+git pull - (manda os arquivos do repositório do Git para o local)
+
+cd - (navega pelas pastas) - (../ para voltar) - (digitar o nome da pasta para acessa-lá)
